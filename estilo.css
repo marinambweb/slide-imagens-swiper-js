@@ -60,11 +60,3 @@ section {
     display: flex;
     justify-content: center;
 }
-
-/*removendo fundo sombreado das imagens*/
-.swiper-container-3d .swiper-slide-shadow-left {
-    background-image: none;
-}
-.swiper-container-3d .swiper-slide-shadow-right {
-    background-image: none;
-}
